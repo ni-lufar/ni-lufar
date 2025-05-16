@@ -76,7 +76,7 @@
          with:
 
 
-           target: 'https://www.medium.com/'
+           target: 'https://joinhandshake.com/'
 
 
    zap_scan_pen:
@@ -100,4 +100,4 @@
          with:
 
 
-           target: 'https://www.medium.com/
+           target: 'https://joinhandshake.com/'
