@@ -101,8 +101,4 @@
 
 
            target: 'https://google.com/'
-           - name: Save Report
-  uses: actions/upload-artifact@v3
-  with:
-    name: zap-scan-report-${{ github.run_id }}
-    path: ./report/
+          
